@@ -4,4 +4,5 @@ The focus of my research is in the application of machine learning to help solve
 
 My interests include object recognition, deep learning, environmental intelligence and ethical AI.
 
+One day there will be some code here, one day....
 
